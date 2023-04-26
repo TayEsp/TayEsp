@@ -1,6 +1,7 @@
 ### Hi there, i'm Tay ✨
 
 - 🔭 I’m currently looking for a job
+- 📚 Cursing Computer Science
 - 🌱 currently learning javaScript and react
 
 ##
