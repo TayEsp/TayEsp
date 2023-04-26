@@ -7,7 +7,7 @@
 ##
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TayEsp&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&PAT_1)](https://github.com/TayEsp/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TayEsp&langs_count=5&hide_progress=true&theme=tokyonight&PAT_1)](https://github.com/TayEsp/github-readme-stats)
+  <!--<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayEsp&layout=compact&langs_count=10&hide_progress=true&theme=tokyonight&PAT_1"/>-->
   
 ##
 
