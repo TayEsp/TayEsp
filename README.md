@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently looking for a job
 - 📚 Cursing Computer Science
-- 🌱 Currently learning javaScript and angular
+- 🌱 Currently learning java
 
 ##
 
