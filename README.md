@@ -1,6 +1,6 @@
 ### Hi there, i'm Tay ✨
 
-- 🔭 I’m currently looking for a job
+- 💻 Interning in fullStack Development
 - 📚 Cursing Computer Science
 - 🌱 Currently learning java
 
